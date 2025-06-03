@@ -17,10 +17,6 @@ Make sure the following files are saved in the appropriate project directory:
 - `data.csv` — stock characteristics dataset  
 - `ff.xlsx` — Fama-French factor returns
 
-## Execution
-
-Run the scripts in `code.ipynb`. We used Python 3.12.4. You can "Run All" cells to reproduce the analysis, but make sure to specify the correct path to your data files first.
-
 ### Steps:
 
 1. **Specify** the correct path to the data files in the "1) Cleaning Data" section.
